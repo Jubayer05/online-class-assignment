@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.product {
+    border: 2px solid tomato;
+    padding: 15px 0;
+    margin: 20px 0;
+    border-radius: 15px;
+}
+
+.product-photo {
+    width: 400px;
+    height: 200px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+
+.product-container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.product-title {
+    text-align: center;
+}
+
+/* .product-author {
+    margin-left: 270px;
+} */

@@ -1,0 +1,13 @@
+.cart {
+    margin-top: 20px;
+}
+
+.yourCart {
+    color: rgb(25, 132, 255);
+    border-bottom: 3px solid red;
+    margin-bottom: 30px;
+}
+
+.button {
+    margin-top: 30px;
+}
